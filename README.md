@@ -1,4 +1,4 @@
 mygit
 =====
 
-change a c
+change a b c
