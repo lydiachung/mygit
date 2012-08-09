@@ -2,4 +2,4 @@ mygit
 =====
 
 change a b c d e
-change f g k
+change f g h k
